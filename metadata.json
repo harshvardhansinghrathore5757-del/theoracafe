@@ -1,0 +1,6 @@
+{
+  "name": "The Ora Cafe",
+  "description": "A premium modern Indian restaurant website featuring an interactive menu, online reservations, custom dietary filters, and immersive visual storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
